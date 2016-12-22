@@ -15,7 +15,7 @@ For windows users please install gitbash ( even better with [zsh](https://github
 
 -----
 **Virtual Box**
-Install virtual ( This is the virtual machine generator )
+Install virtual box ( This is the virtual machine host )
 - [Mac OSX](http://download.virtualbox.org/virtualbox/5.1.12/VirtualBox-5.1.12-112440-OSX.dmg)
 - [Windows](http://download.virtualbox.org/virtualbox/5.1.12/VirtualBox-5.1.12-112440-Win.exe)
 
