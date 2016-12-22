@@ -3,10 +3,6 @@ DJA LEMP STACK
 
 This is a tutorial to setup DJA LEMP stack on your local computer, please follow below instruction.
 
-Table of content:
-
-[TOC]
-
 ----
 
 ## Requirement
