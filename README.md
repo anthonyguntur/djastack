@@ -30,19 +30,21 @@ Install vagrant ( we can invoke the VM spec with vagrant cli command )
 
 ## Folder Structure
 Vagrantfile
-> Virtual Machine configuration is here
-Provision
-:	setup.sh
+Virtual Machine configuration is here
 
-> a bunch of bash script to build our stack
+Provision
+- setup.sh
+
+a bunch of bash script to build our stack
+
 Public
-> your project should be placed here and it will auto sync with your /var/www VM folder
-:	index.php
-:	info.php
+your project should be placed here and it will auto sync with your /var/www VM folder
+- index.php
+- info.php
 
 nginx_conf
-> a templates folder to create default nginx conf file
-:	nginx_vhost 
+a templates folder to create default nginx conf file
+- nginx_vhost 
 	
 
 ## How to use
