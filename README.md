@@ -11,7 +11,7 @@ This is a tutorial to setup DJA LEMP stack on your local computer, please follow
 - Your computer ( of course )
 
 
-For windows users please install gitbash ( even better with [zsh](https://github.com/robbyrussell/oh-my-zsh) ), cygwin, or any unix based console to your machine. this is for the sake of unix console glory.
+For windows users please install gitbash ( even better with [zsh](https://github.com/robbyrussell/oh-my-zsh) ), cygwin, or any unix based console to your machine. This is will make your live easier. Trust me.
 
 -----
 **Virtual Box**
